@@ -1,14 +1,14 @@
 {
   "title": {
     "message": "RMRK",
-    "description": "The title in the navbar"
+    "description": "Il titolo nella navbar"
   },
   "item.label.Docs": {
     "message": "文档",
-    "description": "Navbar item with label Docs"
+    "description": "Elemento della barra di navigazione con etichetta Docs"
   },
   "item.label.GitHub": {
     "message": "GitHub",
-    "description": "Navbar item with label GitHub"
+    "description": "Elemento della barra di navigazione con etichetta GitHub"
   }
 }
